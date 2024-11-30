@@ -5,11 +5,11 @@
 | NAME: LARAYA, Althea Joy Y. | DATE PERFORMED: Sept 12, 2024 |  |
 | Section: IDC2 | DATE SUBMITTED:  Sept 12, 2024 |  |
 
-1. # SYSADM1 – Managing Services in Linux
+SYSADM1 – Managing Services in Linux
 
-2. # Requirement: 
+Requirement: 
 
-* A virtual machine running Linux 
+ A virtual machine running Linux 
 
 ![][image1]
 
