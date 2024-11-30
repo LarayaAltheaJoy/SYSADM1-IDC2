@@ -5,9 +5,9 @@
 | NAME: Laraya, Althea Joy | DATE PERFORMED: Aug 29,2024 |   |
 | Section: IDC2 | DATE SUBMITTED: Aug 29 , 2024 |  |
 
-1. # SYSADM1 – Managing Services in Windows
+# SYSADM1 – Managing Services in Windows
 
-2. # Requirement: 
+# Requirement: 
 
 * A virtual machine running Linux and Windows OS
 
