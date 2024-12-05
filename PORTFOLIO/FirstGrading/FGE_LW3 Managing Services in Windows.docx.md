@@ -64,8 +64,4 @@
 
 <img width="528" alt="image" src="https://github.com/user-attachments/assets/cb3d9dba-7b1c-4c50-9b21-94f369f7384f">
 
-    **RUBRIC:**
-
-<img width="623" alt="image" src="https://github.com/user-attachments/assets/9448f757-8e14-40c0-b605-8e8c912c9011">
-
-
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/aa69451d-f739-43ae-b3e6-9041a2dc48d1">
