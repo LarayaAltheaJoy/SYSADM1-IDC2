@@ -1,13 +1,10 @@
 
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/c6b35f29-314c-431d-9b2b-e0927e618d22">
 
-|  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
-| ----- | :---- | :---: |
-| NAME: LARAYA, Althea Joy Y. | DATE PERFORMED: 08/14/2024 |   |
-| Section: IDC2 | DATE SUBMITTED: 08/15/2024 |  |
 
-1. # **Evolution of Systems Administration: From Manual to Automated**
+ # **Evolution of Systems Administration: From Manual to Automated**
 
-2. # **SYSADM1** 
+ # **SYSADM1** 
 
 Case study
 
