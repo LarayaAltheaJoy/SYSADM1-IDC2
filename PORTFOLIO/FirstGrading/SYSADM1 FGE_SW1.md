@@ -16,7 +16,7 @@ At present, SysPro Corporation migrated a significant portion of its infrastruct
 
 **Based on the case study,** 
 
-1.Describe the role of system administrators at SysPro Corporation in the early years. What were the primary challenges they faced?
+1. Describe the role of system administrators at SysPro Corporation in the early years. What were the primary challenges they faced?
 
 	The system administrators of SysPro Corporation have been responsible for troubleshooting, hardware maintenance, software installation, and manually installing, configuring, and resolving hardware issues. They encountered frequent system downtime and response times because their equipment was already outdated. Since they performed manual processes, they had operational difficulties.
 
