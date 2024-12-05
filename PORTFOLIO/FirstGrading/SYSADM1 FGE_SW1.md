@@ -20,7 +20,7 @@ At present, SysPro Corporation migrated a significant portion of its infrastruct
 
 	The system administrators of SysPro Corporation have been responsible for troubleshooting, hardware maintenance, software installation, and manually installing, configuring, and resolving hardware issues. They encountered frequent system downtime and response times because their equipment was already outdated. Since they performed manual processes, they had operational difficulties.
 
-2\. Discuss the limitations of manual system management as experienced by SysPro Corporation. How did these challenges impact the business?
+2. Discuss the limitations of manual system management as experienced by SysPro Corporation. How did these challenges impact the business?
 
 	The manual processes performed had a negative effect on the business since it caused delay, reduced productivity, and higher risk of human error. The manual system management led has become ineffective as the company grows since it increases system downtime, slow responses time and becomes a time consuming task. Because of this the business becomes unsustainable and will not grow.
 
