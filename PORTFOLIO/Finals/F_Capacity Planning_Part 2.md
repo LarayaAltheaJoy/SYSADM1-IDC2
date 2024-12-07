@@ -80,11 +80,4 @@ Migrating critical applications to cloud platforms and implementing automated cl
 
 Although the estimated cost of ₱800,000 to ₱1,300,000 represents a significant investment, it is justified by the long-term benefits. These upgrades will minimize downtime, boost operational efficiency, improve user satisfaction, and ensure the network can handle future growth with ease. By integrating advanced Cisco technologies, cloud-based solutions, and reliable redundancy measures, the network will deliver high performance and security, even under heavy traffic conditions. This makes it a strategic investment for sustained business success and customer trust.
 
-| Criteria | Excellent | 10pts | Good | 7pts | Needs Improvement | 4pts |
-| ----- | :---- | :---- | :---- |
-| **Network Analysis**  | Accurately identifies potential bottlenecks, security risks, and capacity limitations. | Identifies key network components and some potential bottlenecks. | Identifies some basic network components but lacks a comprehensive analysis. |
-| **Scalability Planning**   | Proposes multiple relevant solutions and provides detailed explanations, including potential drawbacks and benefits. | Proposes some relevant scalability strategies but lacks detail. | Proposes limited scalability strategies. |
-| **Evaluation of Solutions**  | Proposes comprehensive scalability strategies, including specific recommendations for hardware upgrades, software configurations, and network optimizations. | Provides a basic evaluation of the proposed solutions, but lacks depth. | Does not evaluate the proposed solutions or provides a superficial evaluation. |
-| **Proposed Design**  | Provides a detailed and well-justified design, including network diagrams, configuration details, and implementation plans. | Provides a basic design but lacks specific details and justifications. | Does not provide a clear and detailed design. |
-| **Evaluation and Justification**  | Provides a thorough evaluation of the proposed solutions, considering factors like cost, complexity, and potential impact. | Provides a basic evaluation of the proposed solutions, but lacks depth. | Does not evaluate the proposed solutions or provides a superficial evaluation |
-| Score: |  |  |      /50 |
+![image](https://github.com/user-attachments/assets/f806ce83-f39f-4441-b144-f61eb1ad6b08)
