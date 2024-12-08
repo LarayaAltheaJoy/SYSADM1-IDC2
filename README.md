@@ -7,8 +7,6 @@ This repository contains my portfolio for the SYSADM1 course, showcasing the bes
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Usage
 To view the contents of this portfolio, simply navigate through the folders. There is no installation required; this repository is intended for viewing purposes only.
@@ -18,17 +16,17 @@ The repository is organized as follows:
 
 SYSADM1-IDC2/
 ├── FirstGrading/
-│ ├── FGE_LW3 Managing Services in Windows.docx.md
-│ ├── FGE_LW3 Managing Services in Linux.docx.md
-│ └── SYSADM1 FGE_SW1.md
+│   ├── FGE_LW3 Managing Services in Windows.docx.md
+│   ├── FGE_LW3 Managing Services in Linux.docx.md
+│   └── SYSADM1 FGE_SW1.md
 ├── MIDTERMS/
-│ ├── M_LW2 Web Server.docx.md
-│ ├── M_R1-Web Serevr Monitoring.md
-│ └── M_SW1 - EULA.md
+│   ├── M_LW2 Web Server.docx.md
+│   ├── M_R1-Web Server Monitoring.md
+│   └── M_SW1 - EULA.md
 ├── Finals/
-│ ├── FLW1_Kerberos(1).docx.md
-│ ├── F_Capacity Planning_Part2.md
-│ └── F_Capacity Planning_Villena-Laraya_IDC2.md
+│   ├── FLW1_Kerberos(1).docx.md
+│   ├── F_Capacity Planning_Part2.md
+│   └── F_Capacity Planning_Villena-Laraya_IDC2.md
 ├── README.md
 └── ALTHEA JOY LARAYA - PORTFOLIO
 
