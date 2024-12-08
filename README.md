@@ -14,21 +14,21 @@ To view the contents of this portfolio, simply navigate through the folders. The
 ## Folder Structure
 The repository is organized as follows:
 
-SYSADM1-IDC2/
-├── FirstGrading/
-│   ├── FGE_LW3 Managing Services in Windows.docx.md
-│   ├── FGE_LW3 Managing Services in Linux.docx.md
-│   └── SYSADM1 FGE_SW1.md
-├── MIDTERMS/
-│   ├── M_LW2 Web Server.docx.md
-│   ├── M_R1-Web Server Monitoring.md
-│   └── M_SW1 - EULA.md
-├── Finals/
-│   ├── FLW1_Kerberos(1).docx.md
-│   ├── F_Capacity Planning_Part2.md
-│   └── F_Capacity Planning_Villena-Laraya_IDC2.md
-├── README.md
-└── ALTHEA JOY LARAYA - PORTFOLIO
+# SYSADM1-IDC2
+# - FirstGrading
+  - FGE_LW3 Managing Services in Windows.docx.md
+  - FGE_LW3 Managing Services in Linux.docx.md
+  - SYSADM1 FGE_SW1.md
+# - MIDTERMS
+  - M_LW2 Web Server.docx.md
+  - M_R1-Web Server Monitoring.md
+  - M_SW1 - EULA.md
+# - Finals
+  - FLW1_Kerberos(1).docx.md
+  - F_Capacity Planning_Part2.md
+  - F_Capacity Planning_Villena-Laraya_IDC2.md
+- README.md
+- ALTHEA JOY LARAYA - PORTFOLIO
 
 ## Contributing
 As this is a personal portfolio for my SYSADM1 course, contributions are not accepted. However, I welcome feedback from my instructor!
